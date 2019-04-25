@@ -5,4 +5,4 @@ The following two jupyter notebooks have also been uploaded:
 
 1. A Jupyter notebook, called `Apple_Defect_Detection_SSD.ipynb`, is uploaded which presents the experiment to detect *apple defects* using the SSD based detector. 
 
-2. Another Jupyter notebook, called `Apple_Defect_Detection_using_Darkflow_Yolov2.ipynb`, is uploaded which presents the experiment to detect *apple defects* using the YOLOv2 based detector. 
+2. Another Jupyter notebook, called `Apple_Defect_Detection_YOLOv2.ipynb`, is uploaded which presents the experiment to detect *apple defects* using the YOLOv2 based detector. 
